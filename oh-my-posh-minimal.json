@@ -1,5 +1,5 @@
 {
-  "$schema": "https://raw.githubusercontent.com/pawelrogowski/oh-my-posh-minimal/master/oh-my-posh-minimal.json",
+  "$schema": "https://raw.githubusercontent.com/JanDeDobbeleer/oh-my-posh/main/themes/schema.json",
   "blocks": [
     {
       "alignment": "left",
@@ -55,7 +55,7 @@
           "type": "path"
         },
         {
-          "background": "#32c8f1",
+          "background": "#1e9fea",
           "foreground": "#f0efe7",
           "properties": {
             "branch_icon": "\ue725 ",
